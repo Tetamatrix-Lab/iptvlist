@@ -1,0 +1,683 @@
+#EXTM3U
+#EXTINF:-1,BNT 1 4K
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11342
+#EXTINF:-1,BNT 1 HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11343
+#EXTINF:-1,BNT 2 HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11344
+#EXTINF:-1,Bulgaria 24
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11348
+#EXTINF:-1,Kanal 3
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11419
+#EXTINF:-1,Bulgaria On Air
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11345
+#EXTINF:-1,TV 1000 HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11346
+#EXTINF:-1,TV+
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11347
+#EXTINF:-1,Nova TV
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11349
+#EXTINF:-1,bTV HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11350
+#EXTINF:-1,bTV Action HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11352
+#EXTINF:-1,bTV Cinema
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11351
+#EXTINF:-1,bTV Comedy
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11353
+#EXTINF:-1,bTV Lady
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11354
+#EXTINF:-1,Disney Channel
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11355
+#EXTINF:-1,Disney Junior
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11356
+#EXTINF:-1,Nick JR.
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11358
+#EXTINF:-1,Cartoon Network
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11359
+#EXTINF:-1,Baby TV
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11360
+#EXTINF:-1,Cinemax HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11365
+#EXTINF:-1,Cinemax 2 HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11366
+#EXTINF:-1,HBO HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11362
+#EXTINF:-1,HBO 2 HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11363
+#EXTINF:-1,HBO 3 HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11364
+#EXTINF:-1,Kino Nova
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11370
+#EXTINF:-1,Filmbox Extra HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11420
+#EXTINF:-1,Action+ HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11424
+#EXTINF:-1,Comedy+
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11422
+#EXTINF:-1,Diema TV
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11367
+#EXTINF:-1,Diema Family HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11368
+#EXTINF:-1,Diema Sport HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11371
+#EXTINF:-1,Diema Sport 2 HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11372
+#EXTINF:-1,Nova Sport HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11373
+#EXTINF:-1,Sport+ HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11374
+#EXTINF:-1,Ring HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11375
+#EXTINF:-1,Auto Motor Sport Channel HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11417
+#EXTINF:-1,National Geographic HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11376
+#EXTINF:-1,National Geographic Wild HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11377
+#EXTINF:-1,Discovery Channel HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11378
+#EXTINF:-1,Discovery Science HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11379
+#EXTINF:-1,ID Xtra HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11381
+#EXTINF:-1,History Channel HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11382
+#EXTINF:-1,Animal Planet HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11383
+#EXTINF:-1,Viasat Nature/History HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11386
+#EXTINF:-1,24Kitchen HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11384
+#EXTINF:-1,Travel Channel HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11387
+#EXTINF:-1,Fox Channel HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11389
+#EXTINF:-1,Fox Crime HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11390
+#EXTINF:-1,Fox Life HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11391
+#EXTINF:-1,CBS Reality
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11392
+#EXTINF:-1,AXN
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11394
+#EXTINF:-1,AXN Black
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11395
+#EXTINF:-1,TLC
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11388
+#EXTINF:-1,AMC
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11398
+#EXTINF:-1,Agro TV
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11397
+#EXTINF:-1,BG Music Channel HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11400
+#EXTINF:-1,FEN TV HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11407
+#EXTINF:-1,FEN Folk
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11406
+#EXTINF:-1,F+
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11405
+#EXTINF:-1,Box TV HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11401
+#EXTINF:-1,Destination
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11402
+#EXTINF:-1,DSTV
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11403
+#EXTINF:-1,Evrokom
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11404
+#EXTINF:-1,Tiankov Folk
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11415
+#EXTINF:-1,Tiankov Orient Folk
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11416
+#EXTINF:-1,Roma TV
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11413
+#EXTINF:-1,Planeta HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11411
+#EXTINF:-1,Planeta Folk
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11412
+#EXTINF:-1,Folklor TV
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11408
+#EXTINF:-1,Magic TV
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11418
+#EXTINF:-1,Hobby Lov
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11409
+#EXTINF:-1,MTV Live HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/11410
+
+
+#EXTINF:-1,------------------------- YEDEK1 ----------------------
+#EXTINF:-1,BG | Travel TV
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76027
+#EXTINF:-1,BG | The Voice
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76028
+#EXTINF:-1,BG | Roma TV
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76029
+#EXTINF:-1,BG | RING TV
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76030
+#EXTINF:-1,BG | Planeta
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76031
+#EXTINF:-1,BG | Nova Sport HD
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76032
+#EXTINF:-1,BG | Nova
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76033
+#EXTINF:-1,BG | Nat Geo Wild
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76034
+#EXTINF:-1,BG | Nat Geo
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76035
+#EXTINF:-1,BG | KinoNova
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76036
+#EXTINF:-1,BG | FEN TV
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76037
+#EXTINF:-1,BG | Diema TV
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76038
+#EXTINF:-1,BG | Diema Sport 2
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76039
+#EXTINF:-1,BG | Diema Sport
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76040
+#EXTINF:-1,BG | CITY MUSIC
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76041
+#EXTINF:-1,BG | BTV Cinema
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76042
+#EXTINF:-1,BG | BTV Action
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76043
+#EXTINF:-1,BG | BTV
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76044
+#EXTINF:-1,BG | BNT 1
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76045
+#EXTINF:-1,BG | BG Music
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76046
+#EXTINF:-1,BG MUSIC
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76047
+#EXTINF:-1,DSTV
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76048
+#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76049
+#EXTINF:-1,AXN
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76050
+#EXTINF:-1,MAX SPORT 3
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76051
+#EXTINF:-1,VIASAT TV 1000
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76052
+#EXTINF:-1,TRAVEL TV
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76053
+#EXTINF:-1,TLC Balkans.
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76054
+#EXTINF:-1,TIANKOV ORIENT FOLK
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76055
+#EXTINF:-1,THE VOICE
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76056
+#EXTINF:-1,Sport + HD
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76057
+#EXTINF:-1,ROMA TV
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76058
+#EXTINF:-1,RING BG
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76059
+#EXTINF:-1,Planeta Folk
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76060
+#EXTINF:-1,Planeta
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76061
+#EXTINF:-1,NOVA TV
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76062
+#EXTINF:-1,NOVA SPORT
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76063
+#EXTINF:-1,NICKELODEON
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76064
+#EXTINF:-1,Nat Geo Wild HD.
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76065
+#EXTINF:-1,KINONOVA
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76066
+#EXTINF:-1,HIT MIX BG
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76067
+#EXTINF:-1,HBO 3
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76068
+#EXTINF:-1,HBO 2
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76069
+#EXTINF:-1,HBO
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76070
+#EXTINF:-1,FOX LIFE
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76071
+#EXTINF:-1,FOX CRIME
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76072
+#EXTINF:-1,FOX
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76073
+#EXTINF:-1,FOOD NETWORK HD
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76074
+#EXTINF:-1,FOLKLOR TV
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76075
+#EXTINF:-1,FINE LIVING
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76076
+#EXTINF:-1,FILMBOX PLUS
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76077
+#EXTINF:-1,FAN TV
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76078
+#EXTINF:-1,F HD
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76079
+#EXTINF:-1,Ð¢Ð’ Ð•Ð²Ñ€Ð¾Ð¿Ð°
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76080
+#EXTINF:-1,Discovery Channel HD.
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76081
+#EXTINF:-1,Discovery
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76082
+#EXTINF:-1,Diema TV
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76083
+#EXTINF:-1,DIEMA SPORT 2
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76084
+#EXTINF:-1,DIEMA SPORT
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76085
+#EXTINF:-1,Diema Family.
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76086
+#EXTINF:-1,COMEDY PLUS
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76087
+#EXTINF:-1,CINEMAX 2
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76088
+#EXTINF:-1,CINEMAX
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76089
+#EXTINF:-1,CINEMA PLUS
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76090
+#EXTINF:-1,CARTOON NETWORK
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76091
+#EXTINF:-1,Bulgaria ON AIR
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76092
+#EXTINF:-1,BTV LADY
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76093
+#EXTINF:-1,bTV Comedy
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76094
+#EXTINF:-1,BTV CINEMA
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76095
+#EXTINF:-1,BTV ACTION
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76096
+#EXTINF:-1,BTV
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76097
+#EXTINF:-1,BOX TV
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76098
+#EXTINF:-1,BNT1
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76099
+#EXTINF:-1,BNT 4
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76100
+#EXTINF:-1,BNT 3 HD
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76101
+#EXTINF:-1,BNT 2
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76102
+#EXTINF:-1,BLOOMBERG
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76103
+#EXTINF:-1,BALKANIKA MTV
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76104
+#EXTINF:-1,B1B ACTION
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76105
+#EXTINF:-1,ANIMAL PLANET..
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76106
+#EXTINF:-1,AMC
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76107
+#EXTINF:-1,ACTION PLUS HD
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76108
+#EXTINF:-1,24KITCHEN
+http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/76109
+
+#EXTINF:-1,------------------------- YEDEK2 ----------------------
+#EXTINF:-1,BG: 24 Kitchen HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27097
+#EXTINF:-1,BG: Action Plus HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/31223
+#EXTINF:-1,BG: Animal Planet
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/31224
+#EXTINF:-1,BG: AXN HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27001
+#EXTINF:-1,BG: Baby TV
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27002
+#EXTINF:-1,BG: Balkanika Music TV HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27003
+#EXTINF:-1,BG: BiT
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27004
+#EXTINF:-1,BG: BNT 1 HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7136
+#EXTINF:-1,BG: BNT 2 HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7135
+#EXTINF:-1,BG: BNT HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7134
+#EXTINF:-1,BG: BNT World
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27005
+#EXTINF:-1,BG: Box TV
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27007
+#EXTINF:-1,BG: bTV Action HD 1080
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7131
+#EXTINF:-1,BG: BTV Comedy
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27009
+#EXTINF:-1,BG: bTV HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7128
+#EXTINF:-1,BG: BTV Lady
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27010
+#EXTINF:-1,BG: Bulgaria 24
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27012
+#EXTINF:-1,BG: Bulgaria On Air
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27013
+#EXTINF:-1,BG: Cherno More
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27015
+#EXTINF:-1,BG: Cinema Plus
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/31229
+#EXTINF:-1,BG: CineMax 2 HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7122
+#EXTINF:-1,BG: City TV
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27017
+#EXTINF:-1,BG: Comedy Plus
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/31230
+#EXTINF:-1,BG: Destination
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7117
+#EXTINF:-1,BG: Diema Family
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27018
+#EXTINF:-1,BG: Diema HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7120
+#EXTINF:-1,BG: Diema Spor 1
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7119
+#EXTINF:-1,BG: Diema Spor 2
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7118
+#EXTINF:-1,BG: Diema TV
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/31231
+#EXTINF:-1,BG: Discovery Channel
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27021
+#EXTINF:-1,BG: DSTV
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27071
+#EXTINF:-1,BG: Duck TV
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27072
+#EXTINF:-1,BG: EKIDS
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27073
+#EXTINF:-1,BG: Evrokom
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27074
+#EXTINF:-1,BG: Fen Folk TV
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27075
+#EXTINF:-1,BG: Fen TV
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27076
+#EXTINF:-1,BG: Fen TV HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27098
+#EXTINF:-1,BG: Film Plus
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/31232
+#EXTINF:-1,BG: FilmBox Extra HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7111
+#EXTINF:-1,BG: Folklor TV
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7110
+#EXTINF:-1,BG: Food Network
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7109
+#EXTINF:-1,BG: Food Network HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27099
+#EXTINF:-1,BG: Fox Crime
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27077
+#EXTINF:-1,BG: FOX HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27101
+#EXTINF:-1,BG: FOX Life HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27078
+#EXTINF:-1,BG: Fox Tv HD 1080
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7106
+#EXTINF:-1,BG: HBO 2 HD 1080
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7105
+#EXTINF:-1,BG: HBO 3 HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/31236
+#EXTINF:-1,BG: History Channel
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27079
+#EXTINF:-1,BG: Hit Mix Channel
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27080
+#EXTINF:-1,BG: Hobby Lov
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27081
+#EXTINF:-1,BG: Hobby TV
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/31464
+#EXTINF:-1,BG: ID Xtra
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/31237
+#EXTINF:-1,BG: Jim Jam
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/31238
+#EXTINF:-1,BG: Kanal 3
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27083
+#EXTINF:-1,BG: Kino Nova
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27084
+#EXTINF:-1,BG: KinoNova
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/31239
+#EXTINF:-1,BG: Magic TV
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27085
+#EXTINF:-1,BG: Movie Star HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/31240
+#EXTINF:-1,BG: Music Channel
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7099
+#EXTINF:-1,BG: Nat Geo Wild HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7098
+#EXTINF:-1,BG: National Geographic
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7097
+#EXTINF:-1,BG: National Geographic Channel
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/31241
+#EXTINF:-1,BG: NICK JR
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7096
+#EXTINF:-1,BG: Nickelodeon
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27086
+#EXTINF:-1,BG: Nova Sport
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7095
+#EXTINF:-1,BG: Nova TV
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7094
+#EXTINF:-1,BG: Planeta
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7093
+#EXTINF:-1,BG: Planeta Folk TV
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27087
+#EXTINF:-1,BG: Planeta HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7092
+#EXTINF:-1,BG: Planeta TV
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27088
+#EXTINF:-1,BG: Skat
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27089
+#EXTINF:-1,BG: The Voice
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27090
+#EXTINF:-1,BG: Tiankov Folk
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7088
+#EXTINF:-1,BG: TLC
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27091
+#EXTINF:-1,BG: Trace Sport Stars HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/8705
+#EXTINF:-1,BG: Travel Channel
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27092
+#EXTINF:-1,BG: Travel TV
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7087
+#EXTINF:-1,BG: TV Evropa
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27093
+#EXTINF:-1,BG: TV Plus
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/31243
+#EXTINF:-1,BG: TV1000
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27094
+#EXTINF:-1,BG: v HD 1080
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/7104
+#EXTINF:-1,BG: VTK
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27095
+#EXTINF:-1,BG: VTV
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27096
+#EXTINF:-1,BG:DISNEY CHANNEL
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27022
+#EXTINF:-1,BG:Nat Geo HD
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/27102
+
+
+#EXTINF:-1,------------------------- YEDEK3 ----------------------
+#EXTINF:-1,101_BNT 1
+http://78.83.191.18:8000/play/a046
+#EXTINF:-1,102_bTV
+http://78.83.191.18:8000/play/a03w
+#EXTINF:-1,103_NOVA
+http://78.83.191.18:8000/play/a03l
+#EXTINF:-1,104_BNT 2
+http://78.83.191.18:8000/play/a049
+#EXTINF:-1,105_BNT 3
+http://78.83.191.18:8000/play/a03x
+#EXTINF:-1,106_BNT 4
+http://78.83.191.18:8000/play/a04u
+#EXTINF:-1,107_bTV Action
+http://78.83.191.18:8000/play/a04n
+#EXTINF:-1,108_bTV Cinema
+http://78.83.191.18:8000/play/a04i
+#EXTINF:-1,109_bTV Comedy
+http://78.83.191.18:8000/play/a04k
+#EXTINF:-1,110_bTV Lady
+http://78.83.191.18:8000/play/a05i
+#EXTINF:-1,111_TV Evropa
+http://78.83.191.18:8000/play/a063
+#EXTINF:-1,112_TV Plus
+http://78.83.191.18:8000/play/a03y
+#EXTINF:-1,113_7/8 TV
+http://78.83.191.18:8000/play/a05p
+#EXTINF:-1,114_Evrokom
+http://78.83.191.18:8000/play/a053
+#EXTINF:-1,116_Diema
+http://78.83.191.18:8000/play/a045
+#EXTINF:-1,117_KinoNova
+http://78.83.191.18:8000/play/a041
+#EXTINF:-1,118_Diema Family
+http://78.83.191.18:8000/play/a047
+#EXTINF:-1,119_AXN
+http://78.83.191.18:8000/play/a04d
+#EXTINF:-1,120_AXN White
+http://78.83.191.18:8000/play/a065
+#EXTINF:-1,121_AXN Black
+http://78.83.191.18:8000/play/a066
+#EXTINF:-1,122_FOX
+http://78.83.191.18:8000/play/a05c
+#EXTINF:-1,123_FOX Life
+http://78.83.191.18:8000/play/a04f
+#EXTINF:-1,124_FOX Crime
+http://78.83.191.18:8000/play/a04h
+#EXTINF:-1,125_FILMBOX
+http://78.83.191.18:8000/play/a06i
+#EXTINF:-1,126_FilmBox Plus
+http://78.83.191.18:8000/play/a04r
+#EXTINF:-1,127_Movie Star
+http://78.83.191.18:8000/play/a04y
+#EXTINF:-1,128_TV1000
+http://78.83.191.18:8000/play/a04w
+#EXTINF:-1,131_Nova News
+http://78.83.191.18:8000/play/a05e
+#EXTINF:-1,132_AMC
+http://78.83.191.18:8000/play/a06f
+#EXTINF:-1,133_Bulgaria 24
+http://78.83.191.18:8000/play/a06b
+#EXTINF:-1,134_TLC
+http://78.83.191.18:8000/play/a04m
+#EXTINF:-1,135_National Geographic
+http://78.83.191.18:8000/play/a048
+#EXTINF:-1,136_Animal Planet
+http://78.83.191.18:8000/play/a05r
+#EXTINF:-1,137_Hobby TV
+http://78.83.191.18:8000/play/a042
+#EXTINF:-1,138_Hobby Lov
+http://78.83.191.18:8000/play/a05q
+#EXTINF:-1,139_Hobby TV HD
+http://78.83.191.18:8000/play/a06k
+#EXTINF:-1,140_Viasat Explorer
+http://78.83.191.18:8000/play/a058
+#EXTINF:-1,141_Viasat History
+http://78.83.191.18:8000/play/a03r
+#EXTINF:-1,142_Viasat Nature
+http://78.83.191.18:8000/play/a03s
+#EXTINF:-1,143_History Channel
+http://78.83.191.18:8000/play/a05u
+#EXTINF:-1,144_Travel Channel
+http://78.83.191.18:8000/play/a04x
+#EXTINF:-1,146_Docubox
+http://78.83.191.18:8000/play/a05n
+#EXTINF:-1,147_Fine Living
+http://78.83.191.18:8000/play/a04t
+#EXTINF:-1,148_Bulgaria on Air
+http://78.83.191.18:8000/play/a05x
+#EXTINF:-1,149_NG Wild HD
+http://78.83.191.18:8000/play/a06p
+#EXTINF:-1,150_H2
+http://78.83.191.18:8000/play/a06j
+#EXTINF:-1,151_Planeta TV
+http://78.83.191.18:8000/play/a03t
+#EXTINF:-1,152_Planeta HD
+http://78.83.191.18:8000/play/a03m
+#EXTINF:-1,153_Balkanika
+http://78.83.191.18:8000/play/a05h
+#EXTINF:-1,154_FEN TV
+http://78.83.191.18:8000/play/a05f
+#EXTINF:-1,155_National Geographic HD
+http://78.83.191.18:8000/play/a06l
+#EXTINF:-1,156_Discovery Channel
+http://78.83.191.18:8000/play/a044
+#EXTINF:-1,161_City TV
+http://78.83.191.18:8000/play/a06c
+#EXTINF:-1,162_MagicTV
+http://78.83.191.18:8000/play/a03u
+#EXTINF:-1,163_The Voice
+http://78.83.191.18:8000/play/a043
+#EXTINF:-1,164_VH 1
+http://78.83.191.18:8000/play/a03n
+#EXTINF:-1,165_MTV 80s
+http://78.83.191.18:8000/play/a06q
+#EXTINF:-1,166_Comedy+
+http://78.83.191.18:8000/play/a06w
+#EXTINF:-1,167_BNT 3 HD
+http://78.83.191.18:8000/play/a072
+#EXTINF:-1,168_MAX Sport 1 HD
+http://78.83.191.18:8000/play/a073
+#EXTINF:-1,169_MAX Sport 2 HD
+http://78.83.191.18:8000/play/a074
+#EXTINF:-1,170_MAX Sport 3 HD
+http://78.83.191.18:8000/play/a075
+#EXTINF:-1,175_MAX Sport 4 HD
+http://78.83.191.18:8000/play/a07f
+#EXTINF:-1,176_F Plus
+http://78.83.191.18:8000/play/a03z
+#EXTINF:-1,177_Eurosport
+http://78.83.191.18:8000/play/a05y
+#EXTINF:-1,178_Eurosport 2
+http://78.83.191.18:8000/play/a04b
+#EXTINF:-1,179_Ring HD
+http://78.83.191.18:8000/play/a06e
+#EXTINF:-1,180_Nova Sport
+http://78.83.191.18:8000/play/a04a
+#EXTINF:-1,181_bTV HD
+http://78.83.191.18:8000/play/a06u
+#EXTINF:-1,182_bTV Action HD
+http://78.83.191.18:8000/play/a06t
+#EXTINF:-1,183_Nova HD
+http://78.83.191.18:8000/play/a06v
+#EXTINF:-1,184_Action+
+http://78.83.191.18:8000/play/a070
+#EXTINF:-1,203_Diema Sport HD
+http://78.83.191.18:8000/play/a076
+#EXTINF:-1,204_Diema Sport 2 HD
+http://78.83.191.18:8000/play/a077
+#EXTINF:-1,205_Boomerang
+http://78.83.191.18:8000/play/a03o
+#EXTINF:-1,206_Nick Toons
+http://78.83.191.18:8000/play/a04s
+#EXTINF:-1,207_Nickelodeon
+http://78.83.191.18:8000/play/a056
+#EXTINF:-1,208_Nick Jr
+http://78.83.191.18:8000/play/a05k
+#EXTINF:-1,209_Cartoon Network
+http://78.83.191.18:8000/play/a05a
+#EXTINF:-1,210_Disney Channel
+http://78.83.191.18:8000/play/a059
+#EXTINF:-1,211_Disney Junior
+http://78.83.191.18:8000/play/a05m
+#EXTINF:-1,212_Ekids
+http://78.83.191.18:8000/play/a06d
+#EXTINF:-1,213_Perviy Kanal
+http://78.83.191.18:8000/play/a07d
+#EXTINF:-1,214_Diema Sport 3 HD
+http://78.83.191.18:8000/play/a07e
+#EXTINF:-1,220_BBC Earth
+http://78.83.191.18:8000/play/a05o
+#EXTINF:-1,221_ID Xtra
+http://78.83.191.18:8000/play/a05g
+#EXTINF:-1,222_Discovery Science
+http://78.83.191.18:8000/play/a04z
+#EXTINF:-1,223_Crime & Investigations
+http://78.83.191.18:8000/play/a03p
+#EXTINF:-1,224_DaVinci Learning
+http://78.83.191.18:8000/play/a03q
+#EXTINF:-1,225_Epic Drama
+http://78.83.191.18:8000/play/a055
+#EXTINF:-1,226_Skat TV
+http://78.83.191.18:8000/play/a04e
+#EXTINF:-1,227_Hustler TV
+http://78.83.191.18:8000/play/a078
+#EXTINF:-1,228_DM Sat
+http://78.83.191.18:8000/play/a06x
+#EXTINF:-1,229_CNN
+http://78.83.191.18:8000/play/a07c
+#EXTINF:-1,230_BBC World News
+http://78.83.191.18:8000/play/a07a
+#EXTINF:-1,231_DW
+http://78.83.191.18:8000/play/a07b
